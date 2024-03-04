@@ -4,6 +4,8 @@
 
 #define MAX_SIZE 100
 
+int a;
+
 typedef struct {
     int x;
     int y;
